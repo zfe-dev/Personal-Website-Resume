@@ -6,12 +6,12 @@
 All pages are in a different GIT repo to keep a clear architecture.
 
 ## Goal
-As an IT student in engineering school, I aimed to create my own website to expose my resume and my projects.
+As an IT student in engineering school, I wanted to create my own website to expose my resume and my projects.
 It is my resume as a responsive web page. I made it simple and clear, but well designed so it's confortable to read.
 
 ## What I used
 * [PHP](https://www.php.net/manual/fr/intro-whatis.php) to build the asked page with choosed language (FR / EN).
-* [Bootstrap](https://getbootstrap.com/) & [JQuery](https://jquery.com/) for responsive page avec some animations.
+* [Bootstrap](https://getbootstrap.com/) & [JQuery](https://jquery.com/) for responsive page with some animations.
 * Some tutorials which gave me ideas for the design (clearly not original).
 
 ## How to test it
